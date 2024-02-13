@@ -27,3 +27,9 @@ Folder `pose2sim` contains your installed model and an empty folder with the pro
 Folder `videodata` contains trial-sized videos in separate folders. Each trial folder includes `raw-2d` folder where you store the videos from multiple cameras. The XXX offers a script that cuts multiple-camera video to separate views and distribute it to folders that align with this structure.
 
 Folder `calibration` contains calibration videos from multiple cameras, each in separate folder. If all your videos are tied to one calibration, you need to place the calibration folder only in the first folder of your trials. If there are multiple calibration setups, place calibration folder with videos to each first trial folder for the respective setup.
+
+## OpenPose 2D tracking
+
+## Calibration
+
+## Pose2sim triangulation
