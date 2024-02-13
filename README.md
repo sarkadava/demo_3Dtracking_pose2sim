@@ -9,6 +9,7 @@ This repository provides a workflow for motion tracking from multiple cameras us
 
 ## Folder structure
 
+<pre>
 pose2sim
 videodata         
 ├── trial_0 
@@ -19,7 +20,7 @@ videodata
     └── raw-2d
 ├── trial_1 
 └── trial_2
-
+</pre>
 
 Folder `pose2sim` contains your installed model and an empty folder with the project structure.
 
