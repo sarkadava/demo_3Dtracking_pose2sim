@@ -215,3 +215,898 @@ Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\tr
 Filtered 3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-3d\trial_0_filt_0-299.trc.
 Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
 NumExpr defaulting to 8 threads.
+Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+NumExpr defaulting to 8 threads.
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 38/299, at time 0.63/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 39/299, at time 0.65/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 40/299, at time 0.67/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 41/299, at time 0.68/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 42/299, at time 0.70/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 43/299, at time 0.72/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 44/299, at time 0.73/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 45/299, at time 0.75/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 46/299, at time 0.77/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 47/299, at time 0.78/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 48/299, at time 0.80/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 49/299, at time 0.82/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 50/299, at time 0.83/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 51/299, at time 0.85/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 52/299, at time 0.87/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 53/299, at time 0.88/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 54/299, at time 0.90/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 55/299, at time 0.92/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 56/299, at time 0.93/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 57/299, at time 0.95/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 58/299, at time 0.97/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 59/299, at time 0.98/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 60/299, at time 1.00/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 61/299, at time 1.02/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 62/299, at time 1.03/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 63/299, at time 1.05/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 64/299, at time 1.07/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 65/299, at time 1.08/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 66/299, at time 1.10/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 67/299, at time 1.12/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 68/299, at time 1.13/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 69/299, at time 1.15/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 70/299, at time 1.17/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 71/299, at time 1.18/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 72/299, at time 1.20/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 73/299, at time 1.22/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 74/299, at time 1.23/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 75/299, at time 1.25/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 76/299, at time 1.27/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 77/299, at time 1.28/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 78/299, at time 1.30/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 79/299, at time 1.32/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 80/299, at time 1.33/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 81/299, at time 1.35/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 82/299, at time 1.37/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 83/299, at time 1.38/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 84/299, at time 1.40/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 85/299, at time 1.42/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 86/299, at time 1.43/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 87/299, at time 1.45/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 88/299, at time 1.47/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 89/299, at time 1.48/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 90/299, at time 1.50/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 91/299, at time 1.52/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 92/299, at time 1.53/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 93/299, at time 1.55/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 94/299, at time 1.57/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 95/299, at time 1.58/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 96/299, at time 1.60/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 97/299, at time 1.62/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 98/299, at time 1.63/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 99/299, at time 1.65/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 100/299, at time 1.67/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 101/299, at time 1.68/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 102/299, at time 1.70/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 103/299, at time 1.72/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 104/299, at time 1.73/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 105/299, at time 1.75/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 106/299, at time 1.77/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 107/299, at time 1.78/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 108/299, at time 1.80/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 109/299, at time 1.82/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 110/299, at time 1.83/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 111/299, at time 1.85/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 112/299, at time 1.87/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 113/299, at time 1.88/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 114/299, at time 1.90/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 115/299, at time 1.92/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 116/299, at time 1.93/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 117/299, at time 1.95/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 118/299, at time 1.97/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 119/299, at time 1.98/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 120/299, at time 2.00/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 121/299, at time 2.02/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 122/299, at time 2.03/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 123/299, at time 2.05/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 124/299, at time 2.07/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 125/299, at time 2.08/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 126/299, at time 2.10/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 127/299, at time 2.12/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 128/299, at time 2.13/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 129/299, at time 2.15/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 130/299, at time 2.17/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 131/299, at time 2.18/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 132/299, at time 2.20/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 133/299, at time 2.22/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 134/299, at time 2.23/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 135/299, at time 2.25/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 136/299, at time 2.27/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 137/299, at time 2.28/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 138/299, at time 2.30/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 139/299, at time 2.32/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 140/299, at time 2.33/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 141/299, at time 2.35/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 142/299, at time 2.37/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 143/299, at time 2.38/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 144/299, at time 2.40/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 145/299, at time 2.42/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 146/299, at time 2.43/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 147/299, at time 2.45/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 148/299, at time 2.47/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 149/299, at time 2.48/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 150/299, at time 2.50/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 151/299, at time 2.52/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 152/299, at time 2.53/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 153/299, at time 2.55/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 154/299, at time 2.57/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 155/299, at time 2.58/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 156/299, at time 2.60/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 157/299, at time 2.62/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 158/299, at time 2.63/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 159/299, at time 2.65/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 160/299, at time 2.67/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 161/299, at time 2.68/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 162/299, at time 2.70/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 163/299, at time 2.72/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 164/299, at time 2.73/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 165/299, at time 2.75/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 166/299, at time 2.77/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 167/299, at time 2.78/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 168/299, at time 2.80/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 169/299, at time 2.82/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 170/299, at time 2.83/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 171/299, at time 2.85/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 172/299, at time 2.87/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 173/299, at time 2.88/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 174/299, at time 2.90/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 175/299, at time 2.92/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 176/299, at time 2.93/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 177/299, at time 2.95/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 178/299, at time 2.97/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 179/299, at time 2.98/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 180/299, at time 3.00/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 181/299, at time 3.02/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 182/299, at time 3.03/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 183/299, at time 3.05/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 184/299, at time 3.07/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 185/299, at time 3.08/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 186/299, at time 3.10/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 187/299, at time 3.12/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 188/299, at time 3.13/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 189/299, at time 3.15/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 190/299, at time 3.17/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 191/299, at time 3.18/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 192/299, at time 3.20/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 193/299, at time 3.22/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 194/299, at time 3.23/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 195/299, at time 3.25/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 196/299, at time 3.27/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 197/299, at time 3.28/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 198/299, at time 3.30/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 199/299, at time 3.32/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 200/299, at time 3.33/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 201/299, at time 3.35/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 202/299, at time 3.37/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 203/299, at time 3.38/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 204/299, at time 3.40/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 205/299, at time 3.42/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 206/299, at time 3.43/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 207/299, at time 3.45/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 208/299, at time 3.47/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 209/299, at time 3.48/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 210/299, at time 3.50/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 211/299, at time 3.52/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 212/299, at time 3.53/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 213/299, at time 3.55/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 214/299, at time 3.57/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 215/299, at time 3.58/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 216/299, at time 3.60/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 217/299, at time 3.62/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 218/299, at time 3.63/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 219/299, at time 3.65/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 220/299, at time 3.67/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 221/299, at time 3.68/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 222/299, at time 3.70/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 223/299, at time 3.72/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 224/299, at time 3.73/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 225/299, at time 3.75/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 226/299, at time 3.77/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 227/299, at time 3.78/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 228/299, at time 3.80/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 229/299, at time 3.82/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 230/299, at time 3.83/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 231/299, at time 3.85/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 232/299, at time 3.87/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 233/299, at time 3.88/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 234/299, at time 3.90/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 235/299, at time 3.92/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 236/299, at time 3.93/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 237/299, at time 3.95/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 238/299, at time 3.97/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 239/299, at time 3.98/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 240/299, at time 4.00/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 241/299, at time 4.02/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 242/299, at time 4.03/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 243/299, at time 4.05/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 244/299, at time 4.07/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 245/299, at time 4.08/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 246/299, at time 4.10/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 247/299, at time 4.12/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 248/299, at time 4.13/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 249/299, at time 4.15/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 250/299, at time 4.17/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 251/299, at time 4.18/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 252/299, at time 4.20/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 253/299, at time 4.22/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 254/299, at time 4.23/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 255/299, at time 4.25/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 256/299, at time 4.27/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 257/299, at time 4.28/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 258/299, at time 4.30/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 259/299, at time 4.32/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 260/299, at time 4.33/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 261/299, at time 4.35/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 262/299, at time 4.37/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 263/299, at time 4.38/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 264/299, at time 4.40/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 265/299, at time 4.42/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 266/299, at time 4.43/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 267/299, at time 4.45/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 268/299, at time 4.47/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 269/299, at time 4.48/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 270/299, at time 4.50/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 271/299, at time 4.52/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 272/299, at time 4.53/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 273/299, at time 4.55/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 274/299, at time 4.57/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 275/299, at time 4.58/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 276/299, at time 4.60/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 277/299, at time 4.62/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 278/299, at time 4.63/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 279/299, at time 4.65/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 280/299, at time 4.67/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 281/299, at time 4.68/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 282/299, at time 4.70/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 283/299, at time 4.72/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 284/299, at time 4.73/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 285/299, at time 4.75/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 286/299, at time 4.77/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 287/299, at time 4.78/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 288/299, at time 4.80/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 289/299, at time 4.82/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 290/299, at time 4.83/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 291/299, at time 4.85/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 292/299, at time 4.87/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 293/299, at time 4.88/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 294/299, at time 4.90/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 295/299, at time 4.92/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 296/299, at time 4.93/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 297/299, at time 4.95/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Images\temp\concatenated_video.mp4, 4665600 bytes wanted but 0 bytes read,at frame 298/299, at time 4.97/4.98 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+
+--> Residual (RMS) calibration errors for each camera are respectively [1.966, 1.51, 1.527] px, which corresponds to [9.676, 5.853, 7.538] mm.
+
+Calibration file is stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\calibration\Calib_checkerboard.toml.
+Calibration took 186.83 s.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 20.2 px, which roughly corresponds to 99.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 20 px error threshold.
+
+Tracked json files are stored in D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-2d-tracked.
+Tracking took 1.27 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Pose2Sim\triangulate_3d.py:173: FutureWarning: the 'line_terminator'' keyword is deprecated, use 'lineterminator' instead.
+  Q.to_csv(trc_o, sep='\t', index=True, header=None, line_terminator='\n')
+
+
+Mean reprojection error for RHip is 12.2 px (~ 0.06 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 9.2 px (~ 0.045 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.1 px (~ 0.035 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 8.4 px (~ 0.041 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 7.0 px (~ 0.034 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.2 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.2 px (~ 0.055 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 11.4 px (~ 0.056 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RThumb is 11.4 px (~ 0.056 m), reached with 1.02 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RIndex is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RPinky is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.0 px (~ 0.069 m), reached with 1.09 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.06 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LThumb is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LIndex is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LPinky is nan px (~ nan m), reached with 1.08 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.8 px, which roughly corresponds to 48.2 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.01 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 61% of the time, Camera cam2: 0%, and Camera cam1: 19%.
+
+3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 3.78 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Pose2Sim\filter_3d.py:370: FutureWarning: the 'line_terminator'' keyword is deprecated, use 'lineterminator' instead.
+  Q_filt.to_csv(trc_o, sep='\t', index=False, header=None, line_terminator='\n')
+
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-3d\trial_0_filt_0-299.trc.
