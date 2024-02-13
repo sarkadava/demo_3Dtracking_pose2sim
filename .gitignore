@@ -1,2 +1,3 @@
 pose_iter_XXXXXX.caffemodel
 openpose/bin/
+compress.py
