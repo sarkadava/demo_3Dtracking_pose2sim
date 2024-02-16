@@ -1,10 +1,13 @@
 ﻿# 3D motion tracking using multiple cameras with OpenPose and Pose2Sim
 
-This repository provides a workflow for motion tracking from multiple cameras using OpenPose, and subsequent triangulation of 2D coordinates using pose2sim. The 3D coordinates can be used, for instance, in OpenSim that allows for extraction of full-body 3D joint angles.
+This repository provides a demo for motion tracking from multiple cameras using OpenPose, and subsequent triangulation of 2D coordinates using pose2sim. The 3D coordinates can be used, for instance, in OpenSim that allows for extraction of full-body 3D joint angles.
 
-This workflow demo is quite experimental and work in progress, but because it has all that you need you can easily adapt it to your own workflow and immediately test if this is something you could use for your project. 
+This workflow demo is quite experimental and work in progress, but because it has all that you need to test it, we believe it can be helpful and is a little bit quicker to set up than the original documentation of pose2sim. You can easily adapt it to your own workflow. 
 
 <img src = /Images/pose2sim.gif  >
+
+# Original Docs
+Please study pose2sim package that we are using here: https://github.com/perfanalytics/pose2sim?tab=readme-ov-file#installation.
 
 # Folders
 -- Images = Some images and temporary video folder <br> 
