@@ -28,4 +28,4 @@ citation for this module: Kadavá, S., Pouw, W. (2024). 3D motion tracking using
 
 # Contact
 
-sarka.kadava@donders.ru.nl
+sarka.kadava@donders.ru.nl | wim.pouw@donders.ru.nl
