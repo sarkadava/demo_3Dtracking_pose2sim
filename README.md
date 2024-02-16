@@ -4,6 +4,8 @@ This repository provides a workflow for motion tracking from multiple cameras us
 
 This workflow demo is quite experimental and work in progress, but because it has all that you need you can easily adapt it to your own workflow and immediately test if this is something you could use for your project. 
 
+<img src = /Images/pose2sim.gif  >
+
 # Folders
 -- Images = Some images and temporary video folder
 -- openpose = OpenPose materials, see inside (You need to seperately download bin and 25B models)
