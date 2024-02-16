@@ -7,11 +7,11 @@ This workflow demo is quite experimental and work in progress, but because it ha
 <img src = /Images/pose2sim.gif  >
 
 # Folders
--- Images = Some images and temporary video folder
--- openpose = OpenPose materials, see inside (You need to seperately download bin and 25B models)
--- Pose2Sim = pose2sim projects files
--- projectdata = each folder within projectdata contains a trial or seperate scene, containing calibration folder, and raw 2D videos (then folders are added as you run the code)
--- User = some logging that pose2sim does for archiving output during running of code
+-- Images = Some images and temporary video folder <br> 
+-- openpose = OpenPose materials, see inside (You need to seperately download bin and 25B models) <br> 
+-- Pose2Sim = pose2sim projects files <br> 
+-- projectdata = each folder within projectdata contains a trial or seperate scene, containing calibration folder, and raw 2D videos (then folders are added as you run the code) <br> 
+-- User = some logging that pose2sim does for archiving output during running of code <br> 
 
 ## Scripts
 openpose_to_pose2sim_tracking.ipynb = main jupyter notebook script to run the envision demo
