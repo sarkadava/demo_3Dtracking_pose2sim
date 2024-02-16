@@ -19,7 +19,7 @@ pose3d_folder_name = 'pose-3d'
 opensim_folder_name = 'opensim'
 
 [pose-2d]
-pose_model = 'BODY_135' #CUSTOM, BODY_25B, BODY_25, BODY_135, BLAZEPOSE, 
+pose_model = 'BODY_25B' #CUSTOM, BODY_25B, BODY_25, BODY_135, BLAZEPOSE, 
 # HALPE_26, HALPE_68, HALPE_136, COCO_133, COCO, MPII are available,
 # from DeepLabCut, OpenPose, MediaPipe BlazePose, and AlphaPose
 # See Pose2Sim\skeleton.py for their skeleton hierarchy
@@ -43,13 +43,13 @@ type = 'checkerboard' # 'qca', 'checkerboard', 'arucoboard', or 'charucoboard'
 [2d-tracking]
 tracked_keypoint = 'Neck' # If the neck is not detected by the pose_model, check skeleton.py 
 # and choose a stable point for tracking the person of interest (e.g., 'right_shoulder' with BLAZEPOSE)
-error_threshold_tracking = 20 # px
+error_threshold_tracking = 40 # 20 px standard
 
 [3d-triangulation]
-error_threshold_triangulation = 15 # px
-likelihood_threshold = 0.1
+error_threshold_triangulation = 40 # 15 px standard
+likelihood_threshold = 0.4 # 0.1 standard
 min_cameras_for_triangulation = 2
-interpolation = 'none' #linear, slinear, quadratic, cubic, or none
+interpolation = 'linear' #linear, slinear, quadratic, cubic, or none
 # 'none' if you don't want to interpolate missing points
 interp_if_gap_smaller_than = 10 # do not interpolate bigger gaps
 show_interp_indices = true # true or false (lowercase). For each keypoint, return the frames that need to be interpolated
@@ -74,4 +74,3 @@ display_figures = false # true or false (lowercase)
    kernel_size = 9
 
 [opensim]
-

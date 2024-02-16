@@ -1110,3 +1110,2526 @@ D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Pose2Sim\filter_3d.py:370: Futu
 
 --> Filter type: Gaussian. Standard deviation kernel: 2
 Filtered 3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 20.2 px, which roughly corresponds to 99.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 20 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.68 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.2 px (~ 0.06 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 9.2 px (~ 0.045 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.1 px (~ 0.035 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 8.4 px (~ 0.041 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 7.0 px (~ 0.034 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.2 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.2 px (~ 0.055 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 11.4 px (~ 0.056 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RThumb is 11.4 px (~ 0.056 m), reached with 1.02 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RIndex is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RPinky is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.0 px (~ 0.069 m), reached with 1.09 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.06 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LThumb is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LIndex is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LPinky is nan px (~ nan m), reached with 1.08 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.8 px, which roughly corresponds to 48.2 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.01 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 61% of the time, Camera cam2: 0%, and Camera cam1: 19%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.50 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 20.2 px, which roughly corresponds to 99.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 20 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.67 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.2 px (~ 0.06 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 9.2 px (~ 0.045 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.1 px (~ 0.035 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 8.4 px (~ 0.041 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 7.0 px (~ 0.034 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.2 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.2 px (~ 0.055 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 11.4 px (~ 0.056 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RThumb is 11.4 px (~ 0.056 m), reached with 1.02 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RIndex is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RPinky is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.0 px (~ 0.069 m), reached with 1.09 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.06 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LThumb is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LIndex is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LPinky is nan px (~ nan m), reached with 1.08 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.8 px, which roughly corresponds to 48.2 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.01 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 61% of the time, Camera cam2: 0%, and Camera cam1: 19%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.57 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 20.2 px, which roughly corresponds to 99.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 20 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.67 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.2 px (~ 0.06 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 9.2 px (~ 0.045 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.1 px (~ 0.035 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 8.4 px (~ 0.041 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 7.0 px (~ 0.034 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.2 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.2 px (~ 0.055 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 11.4 px (~ 0.056 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RThumb is 11.4 px (~ 0.056 m), reached with 1.02 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RIndex is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RPinky is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.0 px (~ 0.069 m), reached with 1.09 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.06 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LThumb is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LIndex is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LPinky is nan px (~ nan m), reached with 1.08 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.8 px, which roughly corresponds to 48.2 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.01 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 61% of the time, Camera cam2: 0%, and Camera cam1: 19%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.51 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 20.2 px, which roughly corresponds to 99.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 20 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.68 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.2 px (~ 0.06 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 9.2 px (~ 0.045 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.1 px (~ 0.035 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 8.4 px (~ 0.041 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 7.0 px (~ 0.034 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.2 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.2 px (~ 0.055 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 11.4 px (~ 0.056 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RThumb is 11.4 px (~ 0.056 m), reached with 1.02 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RIndex is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RPinky is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.0 px (~ 0.069 m), reached with 1.09 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.06 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LThumb is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LIndex is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LPinky is nan px (~ nan m), reached with 1.08 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.8 px, which roughly corresponds to 48.2 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.01 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 61% of the time, Camera cam2: 0%, and Camera cam1: 19%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.36 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 19.5 px, which roughly corresponds to 96.0 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 20 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.46 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.8 px (~ 0.063 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 10.4 px (~ 0.051 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.4 px (~ 0.036 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.2 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 7.7 px (~ 0.038 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 6.4 px (~ 0.031 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.0 px (~ 0.069 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.5 px (~ 0.071 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 10.7 px (~ 0.053 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.8 px, which roughly corresponds to 48.2 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.0 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 55% of the time, and Camera cam1: 24%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 1.82 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 22.7 px, which roughly corresponds to 111.7 mm. 
+--> In average, 0.65 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.55 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.8 px (~ 0.063 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 10.0 px (~ 0.049 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.4 px (~ 0.036 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.1 px (~ 0.069 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 7.5 px (~ 0.037 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 6.4 px (~ 0.031 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 14.5 px (~ 0.071 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.0 px (~ 0.069 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.5 px (~ 0.071 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.0 px (~ 0.054 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 10.7 px (~ 0.053 m), reached with 0.94 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.3 px, which roughly corresponds to 45.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.0 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 69% of the time, Camera cam1: 14%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.10 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y 3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y 3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 22.7 px, which roughly corresponds to 111.7 mm. 
+--> In average, 0.65 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.42 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.8 px (~ 0.063 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 10.0 px (~ 0.049 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.4 px (~ 0.036 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.1 px (~ 0.069 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 7.5 px (~ 0.037 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 6.4 px (~ 0.031 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 14.5 px (~ 0.071 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.0 px (~ 0.069 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.5 px (~ 0.071 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.0 px (~ 0.054 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 10.7 px (~ 0.053 m), reached with 0.94 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.3 px, which roughly corresponds to 45.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.0 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 69% of the time, Camera cam1: 14%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 1.98 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 22.7 px, which roughly corresponds to 111.7 mm. 
+--> In average, 0.65 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.42 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.8 px (~ 0.063 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 10.0 px (~ 0.049 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.4 px (~ 0.036 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.1 px (~ 0.069 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 7.5 px (~ 0.037 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 6.4 px (~ 0.031 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 14.5 px (~ 0.071 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.0 px (~ 0.069 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.5 px (~ 0.071 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.0 px (~ 0.054 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 10.7 px (~ 0.053 m), reached with 0.94 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.3 px, which roughly corresponds to 45.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.0 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 69% of the time, Camera cam1: 14%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.01 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Residual (RMS) calibration errors for each camera are respectively [2.083, 1.5, 1.507] px, which corresponds to [8.411, 5.774, 6.486] mm.
+
+Calibration file is stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\calibration\Calib_checkerboard.toml.
+Calibration took 349.83 s.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 25.3 px, which roughly corresponds to 102.1 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.37 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.1 px (~ 0.049 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 10.3 px (~ 0.042 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 8.2 px (~ 0.033 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 6.5 px (~ 0.026 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 5.3 px (~ 0.021 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 9.3 px (~ 0.038 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is 11.8 px (~ 0.048 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 11.5 px (~ 0.046 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is 13.9 px (~ 0.056 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is 12.9 px (~ 0.052 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is 13.1 px (~ 0.053 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.4 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is 12.3 px (~ 0.05 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is 14.2 px (~ 0.057 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is 11.7 px (~ 0.047 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 12.3 px (~ 0.05 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 8.9 px (~ 0.036 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 8.4 px (~ 0.034 m), reached with 0.99 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 13.7 px (~ 0.055 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 11.9 px (~ 0.048 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is 14.0 px (~ 0.057 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 10.5 px, which roughly corresponds to 42.4 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.0 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 100% of the time, Camera cam3: 0%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.54 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y 3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y 3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 25.3 px, which roughly corresponds to 102.1 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.36 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 12.1 px (~ 0.049 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 10.3 px (~ 0.042 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 8.2 px (~ 0.033 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 6.5 px (~ 0.026 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 5.3 px (~ 0.021 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 9.3 px (~ 0.038 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is 11.8 px (~ 0.048 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 11.5 px (~ 0.046 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is 13.9 px (~ 0.056 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is 12.9 px (~ 0.052 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is 13.1 px (~ 0.053 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.4 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is 12.3 px (~ 0.05 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is 14.2 px (~ 0.057 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is 11.7 px (~ 0.047 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 12.3 px (~ 0.05 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 8.9 px (~ 0.036 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 8.4 px (~ 0.034 m), reached with 0.99 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 13.7 px (~ 0.055 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 11.9 px (~ 0.048 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is 14.0 px (~ 0.057 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 10.5 px, which roughly corresponds to 42.4 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.0 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 100% of the time, Camera cam3: 0%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.58 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Camera calibration
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Residual (RMS) calibration errors for each camera are respectively [2.167, 1.481, 1.489] px, which corresponds to [8.465, 5.134, 6.104] mm.
+
+Calibration file is stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\calibration\Calib_checkerboard.toml.
+Calibration took 1291.32 s.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.35 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 2.2 px (~ 0.009 m), reached with 0.98 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 3.3 px (~ 0.013 m), reached with 0.87 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 2.3 px (~ 0.009 m), reached with 0.93 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 12.7 px (~ 0.05 m), reached with 0.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is 2.4 px (~ 0.009 m), reached with 0.99 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 1.3 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is 2.4 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is 1.1 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is 0.9 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 1.8 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is 4.7 px (~ 0.018 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is 7.1 px (~ 0.028 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is 6.0 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 3.9 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 7.6 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 8.2 px (~ 0.032 m), reached with 0.97 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is 5.8 px (~ 0.023 m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 4.8 px, which roughly corresponds to 18.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 0.85 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 48% of the time, Camera cam1: 37%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.33 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y 3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.37 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 2.2 px (~ 0.009 m), reached with 0.98 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 3.3 px (~ 0.013 m), reached with 0.87 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 2.3 px (~ 0.009 m), reached with 0.93 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 12.7 px (~ 0.05 m), reached with 0.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is 2.4 px (~ 0.009 m), reached with 0.99 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 1.3 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is 2.4 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is 1.1 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is 0.9 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 1.8 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is 4.7 px (~ 0.018 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is 7.1 px (~ 0.028 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is 6.0 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 3.9 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 7.6 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 8.2 px (~ 0.032 m), reached with 0.97 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is 5.8 px (~ 0.023 m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 4.8 px, which roughly corresponds to 18.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 0.85 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 48% of the time, Camera cam1: 37%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.35 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y 3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.35 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 2.2 px (~ 0.009 m), reached with 0.98 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 3.3 px (~ 0.013 m), reached with 0.87 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 2.3 px (~ 0.009 m), reached with 0.93 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 12.7 px (~ 0.05 m), reached with 0.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is 2.4 px (~ 0.009 m), reached with 0.99 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 1.3 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is 2.4 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is 1.1 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is 0.9 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 1.8 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is 4.7 px (~ 0.018 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is 7.1 px (~ 0.028 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is 6.0 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 3.9 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 7.6 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 8.2 px (~ 0.032 m), reached with 0.97 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is 5.8 px (~ 0.023 m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 4.8 px, which roughly corresponds to 18.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 0.85 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 48% of the time, Camera cam1: 37%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.31 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.50 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.37 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.38 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.45 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.44 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 4.7 px, which roughly corresponds to 18.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 10 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.54 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 4.7 px, which roughly corresponds to 18.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 10 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.54 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 4.7 px, which roughly corresponds to 18.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 10 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.46 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 4.7 px, which roughly corresponds to 18.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 10 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.48 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 4.7 px, which roughly corresponds to 18.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 10 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.56 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 4.7 px, which roughly corresponds to 18.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 10 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.48 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.44 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.36 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 4.7 px, which roughly corresponds to 18.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 5 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.52 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.43 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 19.7 px (~ 0.077 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 17.1 px (~ 0.067 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 17.0 px (~ 0.066 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 13.7 px (~ 0.054 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is 19.9 px (~ 0.078 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 19.0 px (~ 0.074 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is 19.8 px (~ 0.077 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is 21.6 px (~ 0.084 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is 22.7 px (~ 0.089 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 20.3 px (~ 0.079 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is 21.9 px (~ 0.086 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is 24.1 px (~ 0.094 m), reached with 0.13 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is 25.7 px (~ 0.1 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 22.6 px (~ 0.088 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 21.2 px (~ 0.083 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 21.9 px (~ 0.086 m), reached with 0.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 23.3 px (~ 0.091 m), reached with 0.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 22.9 px (~ 0.089 m), reached with 0.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is 25.8 px (~ 0.101 m), reached with 0.13 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 20.1 px, which roughly corresponds to 78.5 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 30 px.
+In average, 0.02 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 1% of the time, and Camera cam3: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 0.93 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.42 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 19.7 px (~ 0.077 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RKnee is 17.1 px (~ 0.067 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RBigToe is 17.0 px (~ 0.066 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RSmallToe is 13.7 px (~ 0.054 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHip is 19.9 px (~ 0.078 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LKnee is 19.0 px (~ 0.074 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LAnkle is 19.8 px (~ 0.077 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LBigToe is 21.6 px (~ 0.084 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LSmallToe is 22.7 px (~ 0.089 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHeel is 20.3 px (~ 0.079 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Neck is 21.9 px (~ 0.086 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Head is 24.1 px (~ 0.094 m), reached with 0.13 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Nose is 25.7 px (~ 0.1 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RShoulder is 22.6 px (~ 0.088 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RElbow is 21.2 px (~ 0.083 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RWrist is 21.9 px (~ 0.086 m), reached with 0.07 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LShoulder is 23.3 px (~ 0.091 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LElbow is 22.9 px (~ 0.089 m), reached with 0.07 excluded cameras. 
+Frames ['156:156', '158:158'] were interpolated.
+Mean reprojection error for LWrist is 25.8 px (~ 0.101 m), reached with 0.13 excluded cameras. 
+Frames ['156:158', '162:163'] were interpolated.
+
+--> Mean reprojection error for all points on all frames is 20.1 px, which roughly corresponds to 78.5 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 30 px.
+In average, 0.02 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 1% of the time, and Camera cam3: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 0.98 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.42 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 2.2 px (~ 0.009 m), reached with 0.98 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RKnee is 3.3 px (~ 0.013 m), reached with 0.87 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RBigToe is 2.3 px (~ 0.009 m), reached with 0.93 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RSmallToe is 12.7 px (~ 0.05 m), reached with 0.07 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHip is 2.4 px (~ 0.009 m), reached with 0.99 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LKnee is 1.3 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LAnkle is 2.4 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LBigToe is 1.1 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LSmallToe is 0.9 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHeel is 1.8 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Neck is 4.7 px (~ 0.018 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Head is 7.1 px (~ 0.028 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Nose is 6.0 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RShoulder is 3.9 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RElbow is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RWrist is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LShoulder is 7.6 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LElbow is 8.2 px (~ 0.032 m), reached with 0.97 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LWrist is 5.8 px (~ 0.023 m), reached with 1.01 excluded cameras. 
+Frames ['157:157'] were interpolated.
+
+--> Mean reprojection error for all points on all frames is 4.8 px, which roughly corresponds to 18.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 0.85 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 48% of the time, Camera cam1: 37%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.36 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.43 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 2.2 px (~ 0.009 m), reached with 0.98 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RKnee is 3.3 px (~ 0.013 m), reached with 0.87 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RBigToe is 2.3 px (~ 0.009 m), reached with 0.93 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RSmallToe is 12.7 px (~ 0.05 m), reached with 0.07 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHip is 2.4 px (~ 0.009 m), reached with 0.99 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LKnee is 1.3 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LAnkle is 2.4 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LBigToe is 1.1 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LSmallToe is 0.9 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHeel is 1.8 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Neck is 4.7 px (~ 0.018 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Head is 7.1 px (~ 0.028 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Nose is 6.0 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RShoulder is 3.9 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RElbow is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RWrist is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LShoulder is 7.6 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LElbow is 8.2 px (~ 0.032 m), reached with 0.97 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LWrist is 5.8 px (~ 0.023 m), reached with 1.01 excluded cameras. 
+Frames ['157:157'] were interpolated.
+
+--> Mean reprojection error for all points on all frames is 4.8 px, which roughly corresponds to 18.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 0.85 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 48% of the time, Camera cam1: 37%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.34 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.43 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 2.2 px (~ 0.009 m), reached with 0.98 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RKnee is 3.3 px (~ 0.013 m), reached with 0.87 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RBigToe is 2.3 px (~ 0.009 m), reached with 0.93 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RSmallToe is 12.7 px (~ 0.05 m), reached with 0.07 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHip is 2.4 px (~ 0.009 m), reached with 0.99 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LKnee is 1.3 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LAnkle is 2.4 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LBigToe is 1.1 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LSmallToe is 0.9 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHeel is 1.8 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Neck is 4.7 px (~ 0.018 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Head is 7.1 px (~ 0.028 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Nose is 6.0 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RShoulder is 3.9 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RElbow is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RWrist is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LShoulder is 7.6 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LElbow is 8.2 px (~ 0.032 m), reached with 0.97 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LWrist is 5.8 px (~ 0.023 m), reached with 1.01 excluded cameras. 
+Frames ['157:157'] were interpolated.
+
+--> Mean reprojection error for all points on all frames is 4.8 px, which roughly corresponds to 18.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 0.85 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 48% of the time, Camera cam1: 37%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.36 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.44 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 2.2 px (~ 0.009 m), reached with 0.98 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RKnee is 3.3 px (~ 0.013 m), reached with 0.87 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RBigToe is 2.3 px (~ 0.009 m), reached with 0.93 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RSmallToe is 12.7 px (~ 0.05 m), reached with 0.07 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHip is 2.4 px (~ 0.009 m), reached with 0.99 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LKnee is 1.3 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LAnkle is 2.4 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LBigToe is 1.1 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LSmallToe is 0.9 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHeel is 1.8 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Neck is 4.7 px (~ 0.018 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Head is 7.1 px (~ 0.028 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Nose is 6.0 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RShoulder is 3.9 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RElbow is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RWrist is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LShoulder is 7.6 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LElbow is 8.2 px (~ 0.032 m), reached with 0.97 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LWrist is 5.8 px (~ 0.023 m), reached with 1.01 excluded cameras. 
+Frames ['157:157'] were interpolated.
+
+--> Mean reprojection error for all points on all frames is 4.8 px, which roughly corresponds to 18.8 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 0.85 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 48% of the time, Camera cam1: 37%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.36 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Butterworth on speed low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.43 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 1.9 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RKnee is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RAnkle is 2.1 px (~ 0.008 m), reached with 0.99 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RBigToe is 1.4 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RSmallToe is 1.4 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RHeel is 4.6 px (~ 0.018 m), reached with 0.63 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHip is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LKnee is 1.3 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LAnkle is 2.4 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LBigToe is 1.1 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LSmallToe is 0.9 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHeel is 1.8 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Neck is 4.7 px (~ 0.018 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Head is 7.0 px (~ 0.027 m), reached with 1.0 excluded cameras. 
+Frames ['102:106', '232:232'] were interpolated.
+Mean reprojection error for Nose is 6.0 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RShoulder is 3.9 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RElbow is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RWrist is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LShoulder is 7.6 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LElbow is 7.6 px (~ 0.03 m), reached with 1.03 excluded cameras. 
+Frames ['3:11', '27:27', '32:32', '37:41', '43:45', '68:68', '70:70', '75:76', '84:85', '87:87', '95:95', '105:106', '109:109', '111:113', '116:117', '121:121', '156:159', '161:161', '205:205', '223:223', '267:271', '274:276', '289:292'] were interpolated.
+Mean reprojection error for LWrist is 5.1 px (~ 0.02 m), reached with 1.08 excluded cameras. 
+Frames ['136:136', '139:139', '152:152', '156:163', '180:188', '198:199', '205:211', '217:221', '223:226', '229:229'] were interpolated.
+
+--> Mean reprojection error for all points on all frames is 3.2 px, which roughly corresponds to 12.5 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 10 px.
+In average, 0.99 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 53% of the time, Camera cam1: 45%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.60 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.43 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 1.9 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RKnee is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RAnkle is 2.1 px (~ 0.008 m), reached with 0.99 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RBigToe is 1.4 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RSmallToe is 1.4 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RHeel is 4.6 px (~ 0.018 m), reached with 0.63 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHip is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LKnee is 1.3 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LAnkle is 2.4 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LBigToe is 1.1 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LSmallToe is 0.9 px (~ 0.004 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHeel is 1.8 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Neck is 4.7 px (~ 0.018 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Head is 7.0 px (~ 0.027 m), reached with 1.0 excluded cameras. 
+Frames ['102:106', '232:232'] were interpolated.
+Mean reprojection error for Nose is 6.0 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RShoulder is 3.9 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RElbow is 1.7 px (~ 0.007 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RWrist is 2.3 px (~ 0.009 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LShoulder is 7.6 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LElbow is 7.6 px (~ 0.03 m), reached with 1.03 excluded cameras. 
+Frames ['3:11', '27:27', '32:32', '37:41', '43:45', '68:68', '70:70', '75:76', '84:85', '87:87', '95:95', '105:106', '109:109', '111:113', '116:117', '121:121', '156:159', '161:161', '205:205', '223:223', '267:271', '274:276', '289:292'] were interpolated.
+Mean reprojection error for LWrist is 5.1 px (~ 0.02 m), reached with 1.08 excluded cameras. 
+Frames ['136:136', '139:139', '152:152', '156:163', '180:188', '198:199', '205:211', '217:221', '223:226', '229:229'] were interpolated.
+
+--> Mean reprojection error for all points on all frames is 3.2 px, which roughly corresponds to 12.5 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 10 px.
+In average, 0.99 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 53% of the time, Camera cam1: 45%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 2.58 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 30 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.56 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 19.7 px (~ 0.077 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RKnee is 17.1 px (~ 0.067 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RBigToe is 17.0 px (~ 0.066 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RSmallToe is 13.7 px (~ 0.054 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHip is 19.9 px (~ 0.078 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LKnee is 19.0 px (~ 0.074 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LAnkle is 19.8 px (~ 0.077 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LBigToe is 21.6 px (~ 0.084 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LSmallToe is 22.6 px (~ 0.088 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHeel is 20.3 px (~ 0.079 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Neck is 21.9 px (~ 0.086 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Head is 8.5 px (~ 0.033 m), reached with 0.92 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Nose is 11.2 px (~ 0.044 m), reached with 0.7 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RShoulder is 21.5 px (~ 0.084 m), reached with 0.05 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RElbow is 18.4 px (~ 0.072 m), reached with 0.12 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RWrist is 16.5 px (~ 0.064 m), reached with 0.3 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LShoulder is 22.6 px (~ 0.088 m), reached with 0.04 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LElbow is 17.0 px (~ 0.066 m), reached with 0.42 excluded cameras. 
+Frames ['156:156', '158:158'] were interpolated.
+Mean reprojection error for LWrist is 11.1 px (~ 0.043 m), reached with 0.79 excluded cameras. 
+Frames ['156:158', '162:163'] were interpolated.
+
+--> Mean reprojection error for all points on all frames is 17.3 px, which roughly corresponds to 67.6 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 25 px.
+In average, 0.16 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 9% of the time, Camera cam3: 6%, and Camera cam2: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 1.22 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 21.9 px, which roughly corresponds to 85.5 mm. 
+--> In average, 0.0 cameras had to be excluded to reach the demanded 40 px error threshold.
+
+Tracked json files are stored in D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 0.43 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+Mean reprojection error for RHip is 19.7 px (~ 0.077 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RKnee is 17.1 px (~ 0.067 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RAnkle is 11.7 px (~ 0.046 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RBigToe is 17.0 px (~ 0.066 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RSmallToe is 13.7 px (~ 0.054 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RHeel is 11.1 px (~ 0.043 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHip is 19.9 px (~ 0.078 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LKnee is 19.0 px (~ 0.074 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LAnkle is 19.8 px (~ 0.077 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LBigToe is 21.6 px (~ 0.084 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LSmallToe is 22.7 px (~ 0.089 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LHeel is 20.3 px (~ 0.079 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Neck is 21.9 px (~ 0.086 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Head is 26.9 px (~ 0.105 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for Nose is 25.7 px (~ 0.1 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RShoulder is 22.6 px (~ 0.088 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RElbow is 21.2 px (~ 0.083 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for RWrist is 23.6 px (~ 0.092 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LShoulder is 23.3 px (~ 0.091 m), reached with 0.0 excluded cameras. 
+Frames [] were interpolated.
+Mean reprojection error for LElbow is 23.0 px (~ 0.09 m), reached with 0.1 excluded cameras. 
+Frames ['156:161', '163:163'] were interpolated.
+Mean reprojection error for LWrist is 25.9 px (~ 0.101 m), reached with 0.15 excluded cameras. 
+Frames ['156:164'] were interpolated.
+
+--> Mean reprojection error for all points on all frames is 20.4 px, which roughly corresponds to 79.7 mm. 
+Cameras were excluded if likelihood was below 0.4 and if the reprojection error was above 40 px.
+In average, 0.01 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 0% of the time, and Camera cam3: 0%.
+
+3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 0.96 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -r 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y ../../Images/temp/3d_animation.mp4

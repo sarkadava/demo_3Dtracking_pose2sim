@@ -1,13 +1,8 @@
-anytree==2.12.1
-c3d==0.5.2
-matplotlib
-numpy==1.21.0
-opencv_contrib_python==4.6.0.66
-opencv_python==4.5.5.62
-opencv_python_headless==4.7.0.72
-pandas==1.5.3
-toml==0.10.2
-tqdm==4.62.3
 trc_data_reader==0.2.0
 Pose2Sim==0.1
+opencv_contrib_python==4.6.0.66
+opencv_python==4.5.5.62
+moviepy
+jupyter
+PyQt5
 
