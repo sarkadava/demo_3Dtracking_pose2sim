@@ -23,7 +23,7 @@ openpose_to_pose2sim_tracking.ipynb = main jupyter notebook script to run the en
 requirements.txt 
 
 ### How to add conda environment to jupyter notebook?
-python -m ipykernel install --user --name=envname
+python -m ipykernel install --user --name=envname python=3.8 
 
 # Was this helpful?
 
