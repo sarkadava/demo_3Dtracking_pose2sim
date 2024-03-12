@@ -20,10 +20,13 @@ Please study pose2sim package that we are using here: https://github.com/perfana
 openpose_to_pose2sim_tracking.ipynb = main jupyter notebook script to run the envision demo
 
 ## Pre-reqs (install these packages)
-requirements.txt 
+conda create --name 3Dtracking python=3.8
+conda activate 3Dtracking
+pip install -r requirements.txt 
+
 
 ### How to add conda environment to jupyter notebook?
-python -m ipykernel install --user --name=envname python=3.8 
+python -m ipykernel install --user --name=envname
 
 # Was this helpful?
 
