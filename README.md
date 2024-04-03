@@ -22,6 +22,7 @@ openpose_to_pose2sim_tracking.ipynb = main jupyter notebook script to run the en
 ## Pre-reqs (install these packages)
 conda create --name 3Dtracking python=3.8 <br> 
 conda activate 3Dtracking <br> 
+cd The/path/of/the/downloaded/folder
 pip install -r requirements.txt <br> 
 
 
