@@ -31,7 +31,8 @@ python -m ipykernel install --user --name=envname
 
 # Was this helpful?
 
-citation for this module: Kadavá, S., Pouw, W. (2024). 3D motion tracking using multiple cameras with OpenPose and Pose2Sim [the day you viewed the site]. Retrieved from: xxx
+citation for this module: Kadavá, S., Pouw, W. (2024). 3D motion tracking using multiple cameras with OpenPose and Pose2Sim (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19185942 <br><br>
+[![DOI](https://zenodo.org/badge/756739642.svg)](https://doi.org/10.5281/zenodo.19185942)
 
 # Contact
 
